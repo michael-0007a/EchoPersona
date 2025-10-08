@@ -10,7 +10,10 @@
     },
     {
       "src": "frontend/package.json",
-      "use": "@vercel/next"
+      "use": "@vercel/next",
+      "config": {
+        "rootDirectory": "frontend"
+      }
     }
   ],
   "routes": [
@@ -27,4 +30,3 @@
     "GEMINI_API_KEY": "AIzaSyDJyXuRJ1XS7gFJ4iCOWBR02WhPSlPDVmI"
   }
 }
-
