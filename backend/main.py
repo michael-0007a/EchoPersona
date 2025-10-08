@@ -27,7 +27,12 @@ app = FastAPI(title="AI Agent Platform", version="2.0.0", description="Speech-to
 # Enable CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=[
+        "http://localhost:3000",
+        "http://localhost:3001",
+        "https://*.vercel.app",
+        "https://echo-persona.vercel.app",  # Update this with your actual Vercel domain
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

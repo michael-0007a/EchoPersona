@@ -1,40 +1,4 @@
 {
-  "version": 2,
-  "builds": [
-    {
-      "src": "backend/main.py",
-      "use": "@vercel/python",
-      "config": {
-        "maxLambdaSize": "15mb"
-      }
-    },
-    {
-      "src": "frontend/package.json",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": ".next"
-      }
-    }
-  ],
-  "routes": [
-    {
-      "src": "/api/(.*)",
-      "dest": "backend/main.py"
-    },
-    {
-      "src": "/(_next|static)(.*)",
-      "dest": "frontend/$1$2"
-    },
-    {
-      "src": "/(.*\\..*)$",
-      "dest": "frontend/$1"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "frontend/$1"
-    }
-  ],
-  "env": {
-    "GEMINI_API_KEY": "AIzaSyDJyXuRJ1XS7gFJ4iCOWBR02WhPSlPDVmI"
-  }
+  "version": 2
 }
+
