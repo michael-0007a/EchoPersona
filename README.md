@@ -53,14 +53,14 @@
 
 ## 👥 Team Details
 
-**Team Name:** `EchoPersona Innovators`
+**Team Name:** `Espada`
 
 | Name | Role | GitHub |
 |---|---|---|
-| Michael | Full Stack Developer & Project Lead | @michael |
-| Jayesh | AI/ML Engineer & Voice Processing | @jayesh |
-| Rithik | Backend Developer & API Design | @rithik |
-| Sunil | Frontend Developer & UI/UX | @sunil |
+| Michael | Full Stack Developer & Project Lead | [@michael-0007a](https://github.com/michael-0007a) |
+| Sunil | Frontend Developer & UI/UX | [@Sunil2585](https://github.com/Sunil2585) |
+| Rithik | Backend Developer & API Design | [@Sai-rithik-07](https://github.com/Sai-rithik-07) |
+| Jayesh | AI/ML Engineer & Voice Processing | [@JC](https://github.com/JC) |
 
 ---
 
@@ -124,8 +124,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-team/aignite-proj
-   cd aignite-proj
+   git clone https://github.com/michael-0007a/EchoPersona.git
+   cd EchoPersona
    ```
 
 2. **Setup Backend**
@@ -202,13 +202,15 @@
 
 ## 🎬 Demo Video
 
-▶️ [Watch Demo Video](https://youtube.com/watch?v=demo-link)
+▶️ [Watch Demo Video](https://drive.google.com/file/d/1-iM8U2uQ25fEIqPjcHIrBml0PCzFbLwD/view?usp=sharing)
 
 ---
 
 ## 🌐 Live Demo
 
-🔗 [EchoPersona Platform](https://echopersona-demo.vercel.app) *(Coming Soon)*
+🔗 **[EchoPersona Platform](https://echopersona.vercel.app)**
+
+> ⏳ **Note:** Please wait 5-10 minutes on first load as the backend (hosted on Render) needs time to start up from sleep mode.
 
 ---
 
@@ -270,13 +272,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Link:** [https://github.com/your-team/aignite-proj](https://github.com/your-team/aignite-proj)
+**Project Link:** [https://github.com/michael-0007a/EchoPersona](https://github.com/michael-0007a/EchoPersona)
 
 For questions or support, please open an issue on GitHub.
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by EchoPersona Innovators</p>
+  <p>Made with ❤️ by Team Espada</p>
   <p><strong>AIGNITE 2K25 - MLSC</strong></p>
 </div>
